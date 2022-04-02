@@ -1,2 +1,3 @@
 # kaggle-predict-pet-adoption-speed
-Multi-classification / Regression on pets' adoption speed
+
+https://www.kaggle.com/competitions/petfinder-adoption-prediction/data
